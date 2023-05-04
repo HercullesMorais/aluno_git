@@ -1,5 +1,7 @@
 # aluno_git
-###COMANDOS
+### COMANDOS
 teste
 
 alteração feita localmente
+
+alteração feita no github
